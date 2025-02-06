@@ -1,2 +1,2 @@
-print " today date is"
+print " yesterday date is"
 date
